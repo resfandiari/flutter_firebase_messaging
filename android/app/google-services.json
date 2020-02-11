@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647034622799",
+    "firebase_url": "https://flutter-firebase-messagi-af7c2.firebaseio.com",
+    "project_id": "flutter-firebase-messagi-af7c2",
+    "storage_bucket": "flutter-firebase-messagi-af7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647034622799:android:1a81d190e506d4d0222b3a",
+        "android_client_info": {
+          "package_name": "io.github.resfandiari.flutter_firebase_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647034622799-17311bpsu73hilsoott7h2qpor3ufg3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYTUVDgbFc2ATbDWTU8OIozPgKZMuAsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647034622799-17311bpsu73hilsoott7h2qpor3ufg3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
