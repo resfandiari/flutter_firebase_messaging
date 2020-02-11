@@ -1,6 +1,6 @@
 # flutter_firebase_messaging
 
-Receive push notifications on Android &amp; iOS with Flutter.
+Receive push notifications on Android with Flutter.
 
 ## Getting Started
 
